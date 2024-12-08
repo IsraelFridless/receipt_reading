@@ -1,0 +1,208 @@
+{
+    "standardizationId": "47877341",
+    "documentId": "f8cf4da7",
+    "data": {
+        "receiptId": "02015047042986",
+        "storeInformation": {
+            "storeAddress": {
+                "street": "רוטשילד 79",
+                "city": "פ״ת",
+                "phone": "03-9313581"
+            }
+        },
+        "transactionDetails": {
+            "totalAmount": 354.23,
+            "currency": "ILS"
+        },
+        "itemDetails": [
+            {
+                "itemName": "פלפל אדום",
+                "quantity": 1,
+                "unitPrice": 7.9,
+                "totalPrice": 2.33
+            },
+            {
+                "itemName": "פלפל ירוק",
+                "quantity": 1,
+                "unitPrice": 6.9,
+                "totalPrice": 2.14
+            },
+            {
+                "itemName": "פלפל צהוב",
+                "quantity": 1,
+                "unitPrice": 7.9,
+                "totalPrice": 2.88
+            },
+            {
+                "itemName": "גזר תפזורת",
+                "quantity": 1,
+                "unitPrice": 4.9,
+                "totalPrice": 1.96
+            },
+            {
+                "itemName": "חציל",
+                "quantity": 1,
+                "unitPrice": 3.9,
+                "totalPrice": 1.81
+            },
+            {
+                "itemName": "בטטה",
+                "quantity": 1,
+                "unitPrice": 7.9,
+                "totalPrice": 2.53
+            },
+            {
+                "itemName": "תפוז",
+                "quantity": 1,
+                "unitPrice": 5.9,
+                "totalPrice": 13.45
+            },
+            {
+                "itemName": "אדממה 1 ק״ג",
+                "quantity": 1,
+                "unitPrice": 18.9,
+                "totalPrice": 18.9
+            },
+            {
+                "itemName": "שניצל תירס 1.75 קג",
+                "quantity": 1,
+                "unitPrice": 58.9,
+                "totalPrice": 58.9
+            },
+            {
+                "itemName": "פריכיות אורז",
+                "quantity": 2,
+                "unitPrice": 11.9,
+                "totalPrice": 23.8
+            },
+            {
+                "itemName": "שעועית שלמה",
+                "quantity": 1,
+                "unitPrice": 21.9,
+                "totalPrice": 21.9
+            },
+            {
+                "itemName": "חלב בקרטון",
+                "quantity": 1,
+                "unitPrice": 7.1,
+                "totalPrice": 7.1
+            },
+            {
+                "itemName": "ביצים ארוזות 12 L",
+                "quantity": 1,
+                "unitPrice": 11.3,
+                "totalPrice": 11.3
+            },
+            {
+                "itemName": "עגבניות שרי",
+                "quantity": 1,
+                "unitPrice": 19.9,
+                "totalPrice": 10.93
+            },
+            {
+                "itemName": "נודלס מנת השף",
+                "quantity": 2,
+                "unitPrice": 4.9,
+                "totalPrice": 9.8
+            },
+            {
+                "itemName": "חסה כשר",
+                "quantity": 1,
+                "unitPrice": 5.9,
+                "totalPrice": 5.9
+            },
+            {
+                "itemName": "שמיר +שום קוטג'",
+                "quantity": 1,
+                "unitPrice": 6.5,
+                "totalPrice": 6.5
+            },
+            {
+                "itemName": "גבינה לבנה",
+                "quantity": 1,
+                "unitPrice": 5.5,
+                "totalPrice": 5.5
+            },
+            {
+                "itemName": "טונה במים",
+                "quantity": 10,
+                "unitPrice": 4.9,
+                "totalPrice": 49.0
+            },
+            {
+                "itemName": "נתחי טונה טעמן",
+                "quantity": 1,
+                "unitPrice": -9.0,
+                "totalPrice": -9.0
+            },
+            {
+                "itemName": "עוגיות וניל",
+                "quantity": 1,
+                "unitPrice": 11.9,
+                "totalPrice": 11.9
+            },
+            {
+                "itemName": "נרות שמן מוצק",
+                "quantity": 2,
+                "unitPrice": 39.9,
+                "totalPrice": 79.8
+            },
+            {
+                "itemName": "תמצית אפיה וניל",
+                "quantity": 1,
+                "unitPrice": 2.9,
+                "totalPrice": 2.9
+            },
+            {
+                "itemName": "שקית קופה",
+                "quantity": 6,
+                "unitPrice": 0.1,
+                "totalPrice": 0.6
+            },
+            {
+                "itemName": "במבה",
+                "quantity": 1,
+                "unitPrice": 4.5,
+                "totalPrice": 4.5
+            },
+            {
+                "itemName": "חטיפים מלוחים אסם",
+                "quantity": 1,
+                "unitPrice": -2.6,
+                "totalPrice": -2.6
+            },
+            {
+                "itemName": "במבה נוגט",
+                "quantity": 2,
+                "unitPrice": 4.9,
+                "totalPrice": 9.8
+            },
+            {
+                "itemName": "חטיפים מלוחים אסם",
+                "quantity": 1,
+                "unitPrice": -6.0,
+                "totalPrice": -6.0
+            },
+            {
+                "itemName": "פופקו פופקורן",
+                "quantity": 3,
+                "unitPrice": 5.5,
+                "totalPrice": 16.5
+            },
+            {
+                "itemName": "חטיפים מלוחים אסם",
+                "quantity": 1,
+                "unitPrice": -10.8,
+                "totalPrice": -10.8
+            }
+        ]
+    },
+    "schemaId": "587d920b",
+    "schemaName": "receipt",
+    "description": null,
+    "jobId": "52bf10a6",
+    "dataset": "unassigned",
+    "filename": "receipt.png",
+    "timestamp": "2024-12-08T21:07:51.315000Z",
+    "metadata": null
+}
